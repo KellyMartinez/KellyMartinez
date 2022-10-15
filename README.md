@@ -1,4 +1,6 @@
 ## Hi! I'm Kelly Martinez 
+## I'm learning english
+## I'm learning french
  <div>
   <a href="https://github.com/kellymartinez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellymartinez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
